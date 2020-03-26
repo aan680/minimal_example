@@ -1,6 +1,6 @@
 #!/bin/bash
-DIR_DATA_MAC="/Users/Astrid/minimal_example2"
-DIR_DATA_CWI="/export/scratch1/aggelen/Stereotypes/data/minimal_example2"
+DIR_DATA_MAC="/Users/Astrid/minimal_example"
+DIR_DATA_CWI="/export/scratch1/aggelen/Stereotypes/data/minimal_example"
 NR_IN="/export/scratch2/home/aggelen/input_newsreader" #on alice
 NR_OUT="/export/scratch2/home/aggelen/output_newsreader" #on alice
 MP_IN="/export/scratch2/home/aggelen/micro-portraits/input" #on alice
