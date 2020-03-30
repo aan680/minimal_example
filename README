@@ -1,0 +1,32 @@
+#See also pipeline.png 
+
+#input
+[file]: original article text. a000000 is an artificial simplified example, a1111111 an original (Volkskrant) article/.
+
+#basic linguistic data
+[file].naf: output of Newsreader linguistic module. This is the raw linguistic data we work with.
+
+#ALTERNATIVE: basic linguistic data AFTER OPTIONAL COREFERENCE MODULE
+coreferenced_[file]: output of Newsreader + coreference resolution module. This is the raw linguistic data we work with.
+If we use this module, we use the prefix "coreferenced" in all subsequent output, i.e. [file] becomes corefereced_[file]
+
+#.naf spinoffs
+[file].naf.csv: output of Microportrait module. This is a filtered, restructured representation of the .naf data.
+[file].naf_NEs: output of naf_to_NEs.py, which uses KafNafParserPy to extract NEs. Name and entity type. 
+[file]_morphology: output of naf_to_morphofeats.py. This is the pronoun data from the .naf to detect mentions of F/M.
+
+alias_fullname_firstname.csv: output of NEdata_to_nameinfo.R, which uses common sense to derive the name info. Lists all recognised persons that are NEs (see [file].naf_NEs) and their label in the text (alias).
+Also does coreference resolution: fullname is the longest name occurring in the same document of which the alias is a substring.
+Fullname is then used to derive the first name (as the first string).
+This script operates on all [file].naf_NEs in parallel, to make it easier to apply the Genderize API on the firstname info. 
+
+firstname_gender.csv: output of genderize.py. This uses the first names from alias_fullname_firstname.csv and derives their sex + confidence level.
+
+#data per article
+[file].csv: output of mp_to_data.R. This forms the input to the classification step. Still includes gender giveaways (pronouns etc).
+The data is basically filtered and gender-annotated Microportrait data: all microportrait data that we can relate to M/F either through the pronouns or the gender API.
+NOTE: key role for preprocess_mpdf() function. At the minute I keep all non-head elements (constituent etc).  
+TODO: use an alternative filter method: filter(dep_rel!="constituent" | relation == "label").
+This ensures that a) labels are kept entirely even if first name is (wrongly) recognised as a constituent and b) crucial complements (e.g. hd/mod) are preserved.
+
+
