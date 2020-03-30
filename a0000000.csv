@@ -1,4 +1,17 @@
 "mp_identifier";"mention_id";"relation";"description";"pos";"term_id";"dep_rel";"constituent_head";"docid";"gender_pron";"gender_api";"alias";"fullname";"ne_identifier"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_0";"label";"de";"det";"t_0";"head";"t_0";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_1";"label";"Ierse";"noun";"t_1";"head";"t_1";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"Dotter";"name";"t_9";"constituent";"t_6";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"Nina";"name";"t_8";"constituent";"t_6";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"actrice";"noun";"t_7";"constituent";"t_6";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"beschuldigen";"verb";"t_10";"head";"t_10";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"door";"prep";"t_6";"hd/mod";"t_6";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"misbruik";"noun";"t_13";"constituent";"t_11";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"seksueel";"adj";"t_12";"constituent";"t_11";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_10";"undergoer";"van";"prep";"t_11";"hd/pc";"t_11";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_2";"label";"tv_chef";"noun";"t_2";"head";"t_2";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_3";"label";"McGregor";"name";"t_4";"constituent";"t_3";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_1";"t_3";"label";"Rob";"name";"t_3";"head";"t_3";"a0000000";NA;"male";"Rob McGregor";"Rob McGregor";"a0000000_Rob McGregor"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_106";"t_106";"label";"ze";"pron";"t_106";"head";"t_106";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_106";"t_109";"agent";"McGregor";"name";"t_108";"constituent";"t_110";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_106";"t_109";"agent";"met";"prep";"t_107";"constituent";"t_110";"a0000000";"female";NA;NA;NA;NA
@@ -8,6 +21,23 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_106";"t_110";"agent";"McGregor";"name";"t_108";"constituent";"t_107";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_106";"t_110";"agent";"met";"prep";"t_107";"hd/mod";"t_107";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_106";"t_110";"agent";"praten";"verb";"t_110";"head";"t_110";"a0000000";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_108";"t_108";"label";"McGregor";"name";"t_108";"head";"t_108";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_108";"t_110";"met-rol";"praten";"verb";"t_110";"head";"t_110";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_108";"t_110";"met-rol";"ze";"pron";"t_106";"hd/su";"t_106";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_119";"label";"McGregor";"name";"t_119";"head";"t_119";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"beschuldiging";"noun";"t_127";"constituent";"t_124";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"in";"adj";"t_124";"hd/predc";"t_124";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"niet";"adv";"t_122";"constituent";"t_124";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"nog";"adv";"t_121";"constituent";"t_124";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"officieel";"adj";"t_123";"constituent";"t_124";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"staat";"adj";"t_125";"constituent";"t_124";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"stellen";"verb";"t_128";"head";"t_128";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_119";"t_128";"undergoer";"van";"prep";"t_126";"constituent";"t_124";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_138";"t_138";"label";"McGregor";"name";"t_138";"head";"t_138";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_138";"t_143";"property";"in";"verb";"t_141";"head";"t_143";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_138";"t_143";"property";"staat";"adj";"t_142";"constituent";"t_143";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_138";"t_143";"property";"tot";"prep";"t_139";"constituent";"t_143";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_138";"t_143";"property";"zoiets";"pron";"t_140";"constituent";"t_143";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_148";"t_147";"undergoer";"als";"comp";"t_149";"-- / --";"t_149";"a0000000";"male";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_148";"t_147";"undergoer";"als";"comp";"t_150";"dp/dp";"t_150";"a0000000";"male";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_148";"t_147";"undergoer";"beschrijven";"verb";"t_147";"head";"t_147";"a0000000";"male";NA;NA;NA;NA
@@ -32,6 +62,7 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_29";"t_30";"agent";"populair";"adj";"t_33";"constituent";"t_31";"a0000000";"male";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_29";"t_30";"agent";"stoppen";"verb";"t_30";"head";"t_30";"a0000000";"male";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_29";"t_30";"agent";"zijn";"det";"t_32";"constituent";"t_31";"a0000000";"male";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_4";"t_4";"label";"McGregor";"name";"t_4";"head";"t_4";"a0000000";NA;"male";"McGregor";"Rob McGregor";"a0000000_Rob McGregor"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_49";"t_49";"label";"hij";"pron";"t_49";"head";"t_49";"a0000000";"male";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_49";"t_59";"agent";"bil";"noun";"t_58";"constituent";"t_56";"a0000000";"male";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_49";"t_59";"agent";"daarbij";"pp";"t_52";"hd/mod";"t_52";"a0000000";"male";NA;NA;NA;NA
@@ -47,6 +78,13 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_61";"t_66";"agent";"doen";"verb";"t_66";"head";"t_66";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_61";"t_66";"agent";"geen";"det";"t_64";"constituent";"t_65";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_61";"t_66";"agent";"toen";"adv";"t_63";"hd/mod";"t_63";"a0000000";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_7";"t_10";"door-rol";"beschuldigen";"verb";"t_10";"head";"t_10";"a0000000";NA;"female";"Nina Dotter";"Nina Dotter";"a0000000_Nina Dotter"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_7";"t_10";"door-rol";"misbruik";"noun";"t_13";"constituent";"t_11";"a0000000";NA;"female";"Nina Dotter";"Nina Dotter";"a0000000_Nina Dotter"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_7";"t_10";"door-rol";"seksueel";"adj";"t_12";"constituent";"t_11";"a0000000";NA;"female";"Nina Dotter";"Nina Dotter";"a0000000_Nina Dotter"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_7";"t_10";"door-rol";"van";"prep";"t_11";"hd/pc";"t_11";"a0000000";NA;"female";"Nina Dotter";"Nina Dotter";"a0000000_Nina Dotter"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_7";"t_7";"label";"actrice";"noun";"t_7";"head";"t_7";"a0000000";NA;"female";"Nina Dotter";"Nina Dotter";"a0000000_Nina Dotter"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_7";"t_8";"label";"Dotter";"name";"t_9";"constituent";"t_8";"a0000000";NA;"female";"Nina Dotter";"Nina Dotter";"a0000000_Nina Dotter"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_7";"t_8";"label";"Nina";"name";"t_8";"head";"t_8";"a0000000";NA;"female";"Nina Dotter";"Nina Dotter";"a0000000_Nina Dotter"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_84";"t_83";"agent";"ontredderd";"adj";"t_85";"hd/predm";"t_85";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_84";"t_83";"agent";"stellen";"verb";"t_83";"head";"t_83";"a0000000";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a0000000t_84";"t_84";"label";"ze";"pron";"t_84";"head";"t_84";"a0000000";"female";NA;NA;NA;NA

@@ -40,6 +40,48 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_127";"t_126";"property";"moe";"verb";"t_130";"head";"t_126";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_127";"t_126";"property";"zo";"adv";"t_129";"constituent";"t_126";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_127";"t_127";"label";"ze";"pron";"t_127";"head";"t_127";"a1111111";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_132";"label";"Silvia Bromet";"name";"t_132";"head";"t_132";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_134";"agent";"een";"det";"t_135";"constituent";"t_137";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_134";"agent";"maand";"noun";"t_137";"hd/mod";"t_137";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_134";"agent";"paar";"noun";"t_136";"constituent";"t_137";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_134";"agent";"vrij";"part";"t_138";"hd/svp";"t_138";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_134";"agent";"vrij_nemen";"verb";"t_134";"head";"t_134";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"deze";"det";"t_143";"constituent";"t_142";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"een";"det";"t_150";"constituent";"t_146";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"het";"det";"t_147";"constituent";"t_146";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"in";"prep";"t_142";"hd/mod";"t_142";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"maken";"verb";"t_148";"constituent";"t_146";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"op";"prep";"t_146";"hd/pc";"t_146";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"podcast";"noun";"t_151";"constituent";"t_146";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"richten";"verb";"t_140";"head";"t_140";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"tijd";"noun";"t_145";"constituent";"t_142";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"van";"prep";"t_149";"constituent";"t_146";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"vrij";"adj";"t_144";"constituent";"t_142";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_132";"t_140";"agent";"zich";"pron";"t_141";"hd/se";"t_141";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_133";"t_133";"label";"Bromet";"name";"t_133";"head";"t_133";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_206";"voor-rol";"weg_leggen";"verb";"t_206";"head";"t_206";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_208";"label";"Bromet";"name";"t_208";"head";"t_208";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_209";"property";"zelf";"adv";"t_209";"head";"t_209";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"bestaan";"noun";"t_229";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"conclusie";"noun";"t_217";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"dat";"comp";"t_219";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"de";"det";"t_216";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"die";"pron";"t_211";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"die";"pron";"t_211";"head";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"haar";"det";"t_226";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"het";"det";"t_213";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"komen";"verb";"t_218";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"maak_proces";"noun";"t_214";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"meer";"adv";"t_222";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"naar";"prep";"t_225";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"niet";"adv";"t_221";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"oud";"adj";"t_227";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"terug";"part";"t_223";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"terug_willen";"verb";"t_224";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"tijdens";"prep";"t_212";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"tot";"prep";"t_215";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"werken";"adj";"t_228";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_208";"t_211";"property";"ze";"pron";"t_220";"constituent";"t_211";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_220";"t_220";"label";"ze";"pron";"t_220";"head";"t_220";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_220";"t_224";"agent";"bestaan";"noun";"t_229";"constituent";"t_225";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_220";"t_224";"agent";"haar";"det";"t_226";"constituent";"t_225";"a1111111";"female";NA;NA;NA;NA
@@ -50,6 +92,15 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_220";"t_224";"agent";"terug";"part";"t_223";"hd/svp";"t_223";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_220";"t_224";"agent";"terug_willen";"verb";"t_224";"head";"t_224";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_220";"t_224";"agent";"werken";"adj";"t_228";"constituent";"t_225";"a1111111";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"de";"det";"t_249";"constituent";"t_248";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"haar";"det";"t_253";"constituent";"t_248";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"met";"prep";"t_248";"hd/pc";"t_248";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"slepend";"adj";"t_250";"constituent";"t_248";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"tong_val";"noun";"t_251";"constituent";"t_248";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"vader";"noun";"t_254";"constituent";"t_248";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"van";"prep";"t_252";"constituent";"t_248";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_246";"agent";"zeggen";"verb";"t_246";"head";"t_246";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_247";"t_247";"label";"Bromet";"name";"t_247";"head";"t_247";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_274";"t_274";"label";"ze";"pron";"t_274";"head";"t_274";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_274";"t_277";"agent";"De";"name";"t_287";"constituent";"t_279";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_274";"t_277";"agent";"Marion";"name";"t_280";"constituent";"t_279";"a1111111";"female";NA;NA;NA;NA
@@ -67,12 +118,48 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_274";"t_277";"agent";"materiaal";"noun";"t_276";"hd/obj1";"t_276";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_274";"t_277";"agent";"podcasthit";"name";"t_286";"constituent";"t_279";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_274";"t_277";"agent";"van";"prep";"t_284";"constituent";"t_279";"a1111111";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_3";"t_1";"van-rol";"de";"det";"t_0";"hd/det";"t_0";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_3";"t_1";"van-rol";"huis_kamer";"noun";"t_1";"head";"t_1";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_3";"t_3";"label";"Silvia Bromet";"name";"t_3";"head";"t_3";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_3";"t_6";"property";"48";"num";"t_6";"head";"t_6";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_29";"label";"het";"det";"t_29";"head";"t_29";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_30";"label";"film_bedrijf";"noun";"t_30";"head";"t_30";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_31";"label";"Bromet";"name";"t_31";"head";"t_31";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"Amsterdam";"name";"t_26";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"daar";"adv";"t_17";"hd/mod";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"de";"det";"t_23";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"dorp";"noun";"t_21";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"het";"det";"t_20";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"in";"prep";"t_19";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"onder";"prep";"t_22";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"rook";"noun";"t_24";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"van";"prep";"t_25";"constituent";"t_17";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_30";"t_32";"undergoer";"vestigen";"verb";"t_32";"head";"t_32";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_4";"t_4";"label";"Bromet";"name";"t_4";"head";"t_4";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_448";"t_447";"agent";"begeven";"verb";"t_447";"head";"t_447";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_448";"t_447";"agent";"onbegonnen";"adj";"t_450";"constituent";"t_451";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_448";"t_447";"agent";"tegelijkertijd";"adj";"t_446";"hd/mod";"t_446";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_448";"t_447";"agent";"terrein";"noun";"t_451";"dp/dp";"t_451";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_448";"t_447";"agent";"zich";"pron";"t_449";"hd/obj1";"t_449";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_448";"t_448";"label";"ze";"pron";"t_448";"head";"t_448";"a1111111";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"aan";"part";"t_501";"hd/svp";"t_501";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"aan_slaan";"verb";"t_494";"head";"t_494";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"aanvankelijk";"adj";"t_496";"hd/mod";"t_496";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"bij";"prep";"t_484";"hd/mod";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"de";"det";"t_489";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"de";"det";"t_498";"constituent";"t_500";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"eindeloos";"adj";"t_486";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"haar";"det";"t_492";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"het";"det";"t_485";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"in_spreken";"verb";"t_487";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"op";"prep";"t_491";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"slaap_kamer";"noun";"t_493";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"steeds";"adv";"t_497";"hd/mod";"t_497";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"toon";"noun";"t_500";"hd/obj1";"t_500";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"van";"prep";"t_488";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"verkeerd";"adj";"t_499";"constituent";"t_500";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_494";"agent";"voice_overs";"noun";"t_490";"constituent";"t_484";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_495";"t_495";"label";"Bromet";"name";"t_495";"head";"t_495";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_52";"t_51";"agent";"18";"num";"t_49";"constituent";"t_50";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_52";"t_51";"agent";"Frans";"name";"t_59";"constituent";"t_54";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_52";"t_51";"agent";"Silvia";"name";"t_55";"constituent";"t_54";"a1111111";"female";NA;NA;NA;NA
@@ -85,6 +172,8 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_52";"t_51";"agent";"werken";"verb";"t_61";"constituent";"t_54";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_52";"t_51";"agent";"zijn";"verb";"t_51";"head";"t_51";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_52";"t_52";"label";"ze";"pron";"t_52";"head";"t_52";"a1111111";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_524";"t_522";"van-rol";"muziek";"noun";"t_522";"head";"t_522";"a1111111";NA;"female";"Tina Turner";"Tina Turner";"a1111111_Tina Turner"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_524";"t_524";"label";"Tina Turner";"name";"t_524";"head";"t_524";"a1111111";NA;"female";"Tina Turner";"Tina Turner";"a1111111_Tina Turner"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_548";"t_547";"agent";"Baehr";"name";"t_554";"constituent";"t_550";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_548";"t_547";"agent";"Katinka";"name";"t_553";"constituent";"t_550";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_548";"t_547";"agent";"een";"det";"t_549";"constituent";"t_550";"a1111111";"female";NA;NA;NA;NA
@@ -101,6 +190,11 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_548";"t_547";"agent";"volgen";"verb";"t_547";"head";"t_547";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_548";"t_547";"agent";"zichzelf";"pron";"t_539";"constituent";"t_538";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_548";"t_548";"label";"ze";"pron";"t_548";"head";"t_548";"a1111111";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_552";"t_550";"van-rol";"een";"det";"t_549";"hd/det";"t_549";"a1111111";NA;"female";"Katinka Baehr";"Katinka Baehr";"a1111111_Katinka Baehr"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_552";"t_550";"van-rol";"podcastcursus";"noun";"t_550";"head";"t_550";"a1111111";NA;"female";"Katinka Baehr";"Katinka Baehr";"a1111111_Katinka Baehr"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_552";"t_552";"label";"programmamaker";"noun";"t_552";"head";"t_552";"a1111111";NA;"female";"Katinka Baehr";"Katinka Baehr";"a1111111_Katinka Baehr"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_552";"t_553";"label";"Baehr";"name";"t_554";"constituent";"t_553";"a1111111";NA;"female";"Katinka Baehr";"Katinka Baehr";"a1111111_Katinka Baehr"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_552";"t_553";"label";"Katinka";"name";"t_553";"head";"t_553";"a1111111";NA;"female";"Katinka Baehr";"Katinka Baehr";"a1111111_Katinka Baehr"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_557";"t_556";"agent";"als";"comp";"t_559";"hd/predm";"t_559";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_557";"t_556";"agent";"bezoeken";"verb";"t_556";"head";"t_556";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_557";"t_556";"agent";"eigen";"adj";"t_543";"constituent";"t_538";"a1111111";"female";NA;NA;NA;NA
@@ -143,6 +237,11 @@
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_571";"t_572";"agent";"voor";"prep";"t_573";"constituent";"t_570";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_571";"t_572";"agent";"voor";"prep";"t_573";"hd/mod";"t_573";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_571";"t_572";"agent";"ze";"pron";"t_571";"constituent";"t_570";"a1111111";"female";NA;NA;NA;NA
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_755";"t_753";"van-rol";"de";"det";"t_751";"hd/det";"t_751";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_755";"t_753";"van-rol";"nuchter";"adj";"t_752";"hd/mod";"t_752";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_755";"t_753";"van-rol";"toon";"noun";"t_753";"head";"t_753";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_755";"t_755";"label";"Silvia Bromet";"name";"t_755";"head";"t_755";"a1111111";NA;"female";"Silvia Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
+"/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_756";"t_756";"label";"Bromet";"name";"t_756";"head";"t_756";"a1111111";NA;"female";"Bromet";"Silvia Bromet";"a1111111_Silvia Bromet"
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_769";"t_769";"label";"ze";"pron";"t_769";"head";"t_769";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_769";"t_777";"agent";"Frans";"name";"t_772";"constituent";"t_771";"a1111111";"female";NA;NA;NA;NA
 "/export/scratch2/home/aggelen/Stereotypes/minimal_example/a1111111t_769";"t_777";"agent";"aflevering";"noun";"t_776";"constituent";"t_773";"a1111111";"female";NA;NA;NA;NA
